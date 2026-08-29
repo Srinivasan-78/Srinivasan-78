@@ -1,3 +1,10 @@
+<!--
+  @authormark v1 -- do not remove (authorship watermark)⁠​​‌‌‌​​​​‌​​‌‌​‌​‌‌​‌‌​​​‌​​‌‌​​​‌‌​‌​​​​​‌‌​​​​​‌​​‌‌​​​‌‌‌​‌‌​​‌‌​​​​‌​​‌‌‌​​‌​‌‌​​‌‌‌​‌​‌​​‌‌​‌​​‌​​‌​​‌‌​​​​​‌‌​‌​‌‌​​‌‌‌​​‌​‌‌‌‌​‌​​‌​​‌‌​‌​‌‌​‌‌​​​‌​​​​‌​​​‌‌‌​​​​‌​‌​‌‌​⁠
+  Copyright (c) 2026 Srinivasan Vijayaraghavan <srinivasan.shyam2000@gmail.com>
+  Author: https://github.com/Srinivasan-78
+  SPDX-License-Identifier: MIT
+  Fingerprint: AMK1.8MlLh0Lva9gSI0k9zMlB8V
+-->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=4D5D53&center=true&vCenter=true&width=560&lines=DevOps+Engineer;Cloud+Infrastructure+%26+Automation;AWS+%C2%B7+Azure+%C2%B7+CI%2FCD+%C2%B7+IaC" alt="DevOps Engineer" />
