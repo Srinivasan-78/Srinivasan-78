@@ -7,6 +7,7 @@
   "keyFile": "~/.authormark.key",
   "ignore": [
     ".github",
-    "*.svg"
+    "*.svg",
+    "REUSE.toml"
   ]
 }
