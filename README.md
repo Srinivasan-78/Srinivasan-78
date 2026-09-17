@@ -37,10 +37,10 @@ DevOps &amp; Cloud Systems Engineer — AWS &amp; Azure, CI/CD, IaC, and self-he
 
 | Project | Stack | What it does |
 | --- | --- | --- |
+| **[repo2graph](https://github.com/Srinivasan-78/repo2graph)** · [live](https://www.srinidevops.com/projects/repo2graph) | Python · Static analysis | Turns any repository into a graph of its files, folders, functions, and the links between them. Also enables A RAG system to retrieve data from scanned files. |
 | **[self-healing-deployment](https://github.com/Srinivasan-78/self-healing-deployment)** · [live](https://www.srinidevops.com/self-healing-deployment/) | Python · Ansible · Blue/Green | Deployment pipeline that health-checks every release and auto-rolls-back on failure, with chaos experiments wired in. |
 | **[multicloud-free-tier](https://github.com/Srinivasan-78/multicloud-free-tier)** · [live](https://www.srinidevops.com/projects/multi-cloud-free-tier-platform) | Python · Terraform · AWS/Azure/GCP/Oracle | One dashboard to provision and monitor real free-tier servers across four clouds. |
 | **[srinivasan-78.github.io](https://github.com/Srinivasan-78/srinivasan-78.github.io)** · [live](https://www.srinidevops.com) | TypeScript · Next.js · Tailwind | Personal portfolio and interactive systems-engineering workbench. |
-| **[repo2graph](https://github.com/Srinivasan-78/repo2graph)** · [live](https://www.srinidevops.com/projects/repo2graph) | Python · Static analysis | Turns any repository into a graph of its files, folders, functions, and the links between them. |
 | **[tokenmiser](https://github.com/Srinivasan-78/tokenmiser)** · [live](https://www.srinidevops.com/projects/tokenmiser) | JavaScript · Claude Code | Instruction files and benchmarks that teach Claude Code to do the same work with fewer tokens. |
 | **[browser-pdf-tools](https://github.com/Srinivasan-78/browser-pdf-tools)** · [live](https://srinidevops.com/browser-pdf-tools/) | JavaScript · Client-side | Merge, split, and rearrange PDFs entirely in the browser — files never leave the device. |
 
