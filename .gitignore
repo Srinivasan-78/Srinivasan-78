@@ -6,8 +6,3 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
-
-
-# Master Bot hygiene additions
-__pycache__/
-*.py[cod]

@@ -11,11 +11,8 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4.2.2
-      - uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af  # v4.1.0
-        with:
-          node-version: '20'
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
       - name: Verify authorship watermarks are intact
         # Presence check here; full fingerprint verification runs in the
         # provenance workflow's verify-authorship job on push to main.
-        uses: Srinivasan-78/authormark-watch@a9ec3a6a6a1047eca6fd2bada07ec27643ed632e  # main
+        uses: Srinivasan-78/authormark-watch@f9f195010310321387128245b5ae4d494e0740de  # main
