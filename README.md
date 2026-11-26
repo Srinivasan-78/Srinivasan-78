@@ -1,10 +1,3 @@
-<!--
-  @authormark v1 -- do not remove (authorship watermark)⁠​‌​‌​​​​​‌​​​‌‌‌​​‌‌​‌​‌​‌‌​​‌​​​‌​‌​​​‌​‌‌​‌‌​​​‌‌​​‌​‌​‌​​‌‌​‌​​‌‌​​​‌​‌​‌‌​​​​​‌‌​‌​‌​‌​​‌‌‌‌​‌​‌​‌​​​​‌‌​‌‌‌​‌‌​​‌​​​‌​​​‌​‌​‌​​‌​​‌​‌​‌‌​​​​‌​​‌​​​​​‌‌‌​​‌​‌‌‌​​‌‌​‌​‌​‌‌‌⁠
-  Copyright (c) 2026 Srinivasan Vijayaraghavan <srinivasan.shyam2000@gmail.com>
-  Author: https://github.com/Srinivasan-78
-  SPDX-License-Identifier: MIT
-  Fingerprint: AMK1.PG5dQleM1X5OT7dEIXH9sW
--->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=4D5D53&center=true&vCenter=true&width=620&lines=DevOps+%2F+Site+Reliability+Engineer;AWS+%C2%B7+Azure+%C2%B7+CI%2FCD+%C2%B7+IaC+%C2%B7+Datadog;Release+%26+Disaster-Recovery+Automation;MCP+%26+AI+Developer+Tooling" alt="DevOps / Site Reliability Engineer" />
