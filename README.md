@@ -33,16 +33,20 @@ DevOps / Site Reliability Engineer — release, upgrade, and disaster-recovery a
 | Project | Stack | What it does |
 | --- | --- | --- |
 | **[repo2graph](https://github.com/Srinivasan-78/repo2graph)** · [live](https://www.srinidevops.com/projects/repo2graph) | Python · tree-sitter · MCP | Gives coding agents trustworthy, **cited** answers about a codebase — a code graph plus an MCP server, no LLM required. Parses 17 languages; BM25 + optional dense retrieval with enforced token budgets. Listed on the MCP Registry. |
-| **[pennywright](https://github.com/Srinivasan-78/pennywright)** · [live](https://www.srinidevops.com/projects/agentic-app-loop) | JavaScript · Claude Code · Codex | The utility belt for coding agents: `/penny` routes any request to a 7-phase build loop, a 5-member council, or a bounded scout — with token discipline throughout. |
+| **[authormark-watch](https://github.com/Srinivasan-78/authormark-watch)** | Rust · GitHub Actions · OSV | Cross-repo security scanner, 15-category DevSecOps auditor, SHA-pinned workflow/PR transformer, CI-gated Dependabot auto-merge, and HMAC-SHA256 webhook server. |
+| **[cairn](https://github.com/Srinivasan-78/cairn)** | TypeScript · AdonisJS · React · Rust | Offline-first knowledge &amp; education server (derivative of Project NOMAD) with Qdrant RAG, Kiwix/ZIM, maps, and a static Rust `cairn-disk-collector` sidecar. |
+| **[pennywright](https://github.com/Srinivasan-78/pennywright)** · [live](https://www.srinidevops.com/projects/agentic-app-loop) | JavaScript · TypeScript · Rust CLI | The utility belt for coding agents: `/penny` routes any request to a 7-phase build loop, a 5-member council, or a bounded scout — with a cross-platform Rust context CLI (`pennywright-context`). |
+| **[devshed](https://github.com/Srinivasan-78/devshed)** | Python · JavaScript · Terraform | 6-in-1 GitHub Pages &amp; developer utility suite, including `doc2md-action`, browser-side panels, and automated workflows. |
 | **[self-healing-deployment](https://github.com/Srinivasan-78/self-healing-deployment)** · [live](https://www.srinidevops.com/projects/self-healing-deployment) | Python · Ansible · Blue/Green | Deployment pipeline that health-checks every release and auto-rolls-back on failure, with chaos experiments wired in. |
 | **[multicloud-free-tier](https://github.com/Srinivasan-78/multicloud-free-tier)** · [live](https://www.srinidevops.com/projects/multi-cloud-free-tier-platform) | Python · Terraform · AWS/Azure/GCP/Oracle | One dashboard to provision and monitor real free-tier servers across four clouds. |
 | **[tokenmiser](https://github.com/Srinivasan-78/tokenmiser)** · [live](https://www.srinidevops.com/projects/tokenmiser) | JavaScript · Claude Code | Instruction files, skills, and benchmarks that teach Claude Code to do the same work with fewer tokens — attacking re-sent context, not reply length. |
 | **[browser-pdf-tools](https://github.com/Srinivasan-78/browser-pdf-tools)** · [live](https://srinidevops.com/browser-pdf-tools/) | JavaScript · Client-side | Merge, split, and rearrange PDFs entirely in the browser — files never leave the device. |
 
-Also in the workshop: **[doc2md-action](https://github.com/Srinivasan-78/doc2md-action)** ([live](https://www.srinidevops.com/projects/doc2md-action)) ·
+Also in the workshop: **[srinivasan-78.github.io](https://github.com/Srinivasan-78/srinivasan-78.github.io)** ([live](https://www.srinidevops.com)) ·
+**[vfactor-solutions-site](https://github.com/Srinivasan-78/vfactor-solutions-site)** ·
+**[doc2md-action](https://github.com/Srinivasan-78/doc2md-action)** ([live](https://www.srinidevops.com/projects/doc2md-action)) ·
 **[filescan-hub](https://github.com/Srinivasan-78/filescan-hub)** ·
-**[minecraft-server-gitops](https://github.com/Srinivasan-78/minecraft-server-gitops)** ·
-**[authormark-watch](https://github.com/Srinivasan-78/authormark-watch)** —
+**[minecraft-server-gitops](https://github.com/Srinivasan-78/minecraft-server-gitops)** —
 or [explore all 23 builds](https://www.srinidevops.com/projects).
 
 ---
@@ -106,8 +110,9 @@ or [explore all 23 builds](https://www.srinidevops.com/projects).
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
@@ -117,9 +122,10 @@ or [explore all 23 builds](https://www.srinidevops.com/projects).
 ### 🤝 Open to collaboration
 
 I welcome contributors on [repo2graph](https://github.com/Srinivasan-78/repo2graph),
+[authormark-watch](https://github.com/Srinivasan-78/authormark-watch),
+[cairn](https://github.com/Srinivasan-78/cairn),
 [pennywright](https://github.com/Srinivasan-78/pennywright),
-[self-healing-deployment](https://github.com/Srinivasan-78/self-healing-deployment),
-[tokenmiser](https://github.com/Srinivasan-78/tokenmiser), and
+[self-healing-deployment](https://github.com/Srinivasan-78/self-healing-deployment), and
 [multicloud-free-tier](https://github.com/Srinivasan-78/multicloud-free-tier) —
 especially around MCP servers, AI developer tooling, GitOps, chaos engineering, and cloud cost optimization.
 Open an issue or reach out by [email](mailto:srinivasan.shyam2000@gmail.com).
