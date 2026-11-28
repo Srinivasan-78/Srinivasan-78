@@ -39,7 +39,7 @@ DevOps / Site Reliability Engineer — release, upgrade, and disaster-recovery a
 | **[devshed](https://github.com/Srinivasan-78/devshed)** | Python · JavaScript · Terraform | 6-in-1 GitHub Pages &amp; developer utility suite, including [doc2md-action](https://github.com/Srinivasan-78/devshed/tree/main/doc2md-action) ([live](https://www.srinidevops.com/projects/doc2md-action)), browser-side panels, and automated workflows. |
 
 Also in the workshop: **[srinivasan-78.github.io](https://github.com/Srinivasan-78/srinivasan-78.github.io)** ([live](https://www.srinidevops.com)) ·
-**[vfactor-solutions-site](https://github.com/Srinivasan-78/vfactor-solutions-site)** —
+**[vfactor-solutions-site](https://github.com/Srinivasan-78/vfactor-solutions-site)** ([live](https://vfactorsolutions.com)) —
 or [explore all builds](https://www.srinidevops.com/projects).
 
 ---
